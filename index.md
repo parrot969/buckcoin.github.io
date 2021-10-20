@@ -423,7 +423,7 @@
                                     <span></span>
                                 </div>
                                 <div class="content text-center">
-                                    <a class="btn btn-lg" href="https://github.com/BuckCoin/buck-gui-wallet-win/releases/download/2.0.7-1/buck-windows-gui-wallet_2.0.7-1_win64-BETA.zip" style="margin-bottom:15px">Download Now</a>
+                                    <a class="btn btn-lg" href="https://github.com/BuckCoin/buck-gui-wallet-win/releases/download/4.0.0/buck-windows-gui-wallet_4.0.0_win64-BETA.zip" style="margin-bottom:15px">Download Now</a>
                                 </div>                                
                                  <div class="title mb16">
                                     <a href="https://github.com/BuckCoin/buck-gui-wallet-win/releases" style="color:#6b6b6b; font-weight:300" target="_blank">View on Github</a>
