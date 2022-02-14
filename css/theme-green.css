@@ -2163,7 +2163,7 @@ button[type="submit"] .form-loading {
   color: #fff;
 }
 .accordion-1 .content {
-  border: 1px solid #eee;
+  border: 0px solid #eee;
   border-top: none;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
